@@ -2,4 +2,4 @@
 
 Programmed by [fjltf](https://github.com/fjltf/).
 
-this tool not for sell.
+this simple tool not for sell.
